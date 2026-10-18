@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Rimu Keyboard</string>
+    <string name="ime_name">Rimu RGB Keyboard</string>
+    <string name="subtype_en">English (US)</string>
+    <string name="subtype_bn">Bangla (বাংলা)</string>
+    
+    <!-- Home / Setup -->
+    <string name="setup_title">Get Started with Rimu Keyboard</string>
+    <string name="setup_subtitle">Complete the two simple steps below to start typing with RGB effects</string>
+    <string name="step_1_title">1. Enable in Settings</string>
+    <string name="step_1_desc">Enable Rimu Keyboard in your device\'s Available Virtual Keyboards list.</string>
+    <string name="step_1_btn">Enable Keyboard</string>
+    <string name="step_1_done">Enabled</string>
+    <string name="step_2_title">2. Select Input Method</string>
+    <string name="step_2_desc">Choose Rimu Keyboard as your current active input method.</string>
+    <string name="step_2_btn">Select Keyboard</string>
+    <string name="step_2_done">Active</string>
+    <string name="test_field_placeholder">Tap here to test typing with Rimu Keyboard...</string>
+    <string name="preview_title">Live Keyboard Preview</string>
+    
+    <!-- Tabs -->
+    <string name="tab_home">Home</string>
+    <string name="tab_appearance">RGB &amp; Style</string>
+    <string name="tab_sound">Sound &amp; Haptic</string>
+    <string name="tab_settings">Input &amp; About</string>
+    
+    <!-- RGB Modes -->
+    <string name="rgb_mode_rainbow_flow">Rainbow Flow</string>
+    <string name="rgb_mode_color_cycle">Color Cycle</string>
+    <string name="rgb_mode_breathing">Breathing Glow</string>
+    <string name="rgb_mode_neon_wave">Neon Wave</string>
+    <string name="rgb_mode_static">Static Neon</string>
+    <string name="rgb_mode_reactive">Reactive Key Press</string>
+    <string name="rgb_mode_off">Off</string>
+    
+    <!-- Sound Profiles -->
+    <string name="sound_soft_click">Soft Click</string>
+    <string name="sound_mechanical">Mechanical Clicky</string>
+    <string name="sound_bubble">Bubble Pop</string>
+    <string name="sound_digital">Digital Arcade</string>
+    <string name="sound_classic">Classic Tap</string>
+    
+    <!-- Privacy -->
+    <string name="privacy_title">100% Private &amp; Local</string>
+    <string name="privacy_desc">Rimu Keyboard works entirely on your device. We do not transmit, log, or store your passwords, messages, or keystrokes to any server.</string>
+</resources>

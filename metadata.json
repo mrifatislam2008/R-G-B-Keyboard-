@@ -1,0 +1,8 @@
+{
+  "name": "Remix Rimu Keyboard",
+  "description": "Modern RGB gaming keyboard with custom lighting effects, Bengali \u0026 English typing, responsive haptics, and privacy-focused design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
